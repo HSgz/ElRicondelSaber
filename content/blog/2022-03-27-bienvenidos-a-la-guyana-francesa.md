@@ -20,7 +20,6 @@ Se ubica en la costa norte de América del Sur, en la región de Las Guayanas, e
 
 **Descripción del País**
 
-
 De oeste a este, los cuatro ríos principales son el Esequibo, el Demerara, el Berbice y el Courantyne. El de más longitud, el Esequibo, mide 1.000 kilómetros (630 millas) de largo y 30 (20 millas) de ancho en su desembocadura, y tiene más de trescientas sesenta y cinco islas. Una de estas, Fort Island, fue sede del gobierno en la época colonial holandesa. Estos grandes ríos nacen en las montañas del interior, al sur del país, y fluyen hacia el norte antes de serpentear por la estrecha llanura costera y morir en el Atlántico. En el trayecto, sus aguas se precipitan por algunas de las cataratas más impresionantes del mundo, como las de Kaieteur, en las que el río Potaro un tributario del Esequibo de 120 metros (400 pies de anchura— salva 226 metros (741 pies) en el salto inicial.
 Sus numerosas atracciones naturales hacen de Guyana un paraíso para los amantes de la naturaleza. En sus aguas habitan nutrias gigantes, caimanes negros y pirarucús, también llamados arapaimas, que figuran entre los peces de agua dulce más grandes que se conocen. Estos gigantes carnívoros que pueden respirar en el aire llegan a medir tres metros \[10 pies] de largo y pesar 220 kilos \[485 libras]. Los jaguares merodean en la espesura, y los monos aulladores gritan en las ramas de los árboles, que comparten con más de setecientas especies de aves, entre ellas las águilas harpías y los espectacularmente coloridos guacamayos y tucanes.
 La población de Guyana es de unos 770.000 habitantes y se compone de indios orientales (cuyos antepasados vinieron de la India a trabajar bajo contrato); negros (descendientes de esclavos africanos); indígenas (arauacos, caribes, wapisanas y warraus), así como mezclas interraciales. Aunque se habla criollo en todo el país, el idioma oficial es el inglés, lo que hace de Guyana la única nación anglohablante de Sudamérica.
@@ -31,6 +30,10 @@ Francia colonizó el territorio en el siglo XVII; esta colonización se realizó
 
 **Animal emblemático de Guyana**
 
+![Flora y fauna guyana](/src/images/florafaunaguyana.jpg)
 
+![Familia Guyanesa](../../src/images/guyane_0028.jpg)
 
-![Flora y fauna guyana](../../src/images/florafaunaguyana.jpg)
+![Mapa Guayana](../../src/images/mapaguyana.jpg)
+
+![Canal Roy Guyana](../../src/images/canalroyguyana.jpg)
