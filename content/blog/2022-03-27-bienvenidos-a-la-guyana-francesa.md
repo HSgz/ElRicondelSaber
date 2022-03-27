@@ -17,3 +17,20 @@ Consiste de dos triángulos formados por la división del paño en dos mitades p
 **Límites**
 
 Se ubica en la costa norte de América del Sur, en la región de Las Guayanas, entre Brasil y Surinam limitando al norte con el océano Atlántico. Su capital y ciudad más poblada es Cayena.
+
+**Descripción del País**
+
+
+De oeste a este, los cuatro ríos principales son el Esequibo, el Demerara, el Berbice y el Courantyne. El de más longitud, el Esequibo, mide 1.000 kilómetros (630 millas) de largo y 30 (20 millas) de ancho en su desembocadura, y tiene más de trescientas sesenta y cinco islas. Una de estas, Fort Island, fue sede del gobierno en la época colonial holandesa. Estos grandes ríos nacen en las montañas del interior, al sur del país, y fluyen hacia el norte antes de serpentear por la estrecha llanura costera y morir en el Atlántico. En el trayecto, sus aguas se precipitan por algunas de las cataratas más impresionantes del mundo, como las de Kaieteur, en las que el río Potaro un tributario del Esequibo de 120 metros (400 pies de anchura— salva 226 metros (741 pies) en el salto inicial.
+Sus numerosas atracciones naturales hacen de Guyana un paraíso para los amantes de la naturaleza. En sus aguas habitan nutrias gigantes, caimanes negros y pirarucús, también llamados arapaimas, que figuran entre los peces de agua dulce más grandes que se conocen. Estos gigantes carnívoros que pueden respirar en el aire llegan a medir tres metros \[10 pies] de largo y pesar 220 kilos \[485 libras]. Los jaguares merodean en la espesura, y los monos aulladores gritan en las ramas de los árboles, que comparten con más de setecientas especies de aves, entre ellas las águilas harpías y los espectacularmente coloridos guacamayos y tucanes.
+La población de Guyana es de unos 770.000 habitantes y se compone de indios orientales (cuyos antepasados vinieron de la India a trabajar bajo contrato); negros (descendientes de esclavos africanos); indígenas (arauacos, caribes, wapisanas y warraus), así como mezclas interraciales. Aunque se habla criollo en todo el país, el idioma oficial es el inglés, lo que hace de Guyana la única nación anglohablante de Sudamérica.
+
+La Guayana Francesa fue habitada originalmente por tribus de indígenas caribes y arahuacos indígenas de Venezuela principalmente, y también por pequeños grupos de galibi, emerillón, palikour, waiampi y wayana.
+
+Francia colonizó el territorio en el siglo XVII; esta colonización se realizó cuando Luis XIV envió miles de colonos a Guayana. Los colonos fueron seducidos para realizar esta empresa con historias de muchísimo oro y fortunas fáciles de hacer. Pero, por el contrario, se encontraron con una tierra llena de nativos hostiles y enfermedades tropicales. Un año y medio después, solo unos pocos cientos sobrevivieron.
+
+**Animal emblemático de Guyana**
+
+
+
+![Flora y fauna guyana](../../src/images/florafaunaguyana.jpg)
