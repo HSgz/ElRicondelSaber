@@ -8,7 +8,7 @@ description: "La civilización mas antigua de Sudamérica "
 ![Bandera Perú](../../src/images/banderaperú.png)
 
 
-
+<div style="text-align: justify">
 Perú está ubicado en la parte occidental de América del Sur y comparte sus fronteras con Ecuador, Colombia, Brasil, Bolivia y Chile. En su vasto territorio, de más de 1.2 millones de km², abarca tres regiones: Costa, Sierra y Selva.
 
 Perú es un país de Sudamérica que abarca una sección del bosque del Amazonas y Machu Picchu, una antigua ciudad inca en las alturas de los Andes. La región en torno a Machu Picchu, incluido el Valle Sagrado, el Camino del Inca y la ciudad colonial de Cuzco, es rica en sitios arqueológicos. En la costa árida del Pacífico de Perú se encuentra Lima, la capital, con un centro colonial preservado e importantes colecciones de arte precolombino.
