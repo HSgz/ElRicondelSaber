@@ -5,7 +5,7 @@ description: "La civilización mas antigua de Sudamérica "
 ---
 
 
-![Bandera Perú](../../../src/images/banderaperú.png)
+![Bandera Perú](../../src/images/banderaperú.png)
 
 
 
