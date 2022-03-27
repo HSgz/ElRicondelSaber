@@ -30,7 +30,7 @@ Francia colonizó el territorio en el siglo XVII; esta colonización se realizó
 
 **Animal emblemático de Guyana**
 
-![Flora y fauna guyana](/src/images/florafaunaguyana.jpg)
+![Flora y fauna guyana](../../src/images/florafaunaguyana.jpg)
 
 ![Familia Guyanesa](../../src/images/guyane_0028.jpg)
 
