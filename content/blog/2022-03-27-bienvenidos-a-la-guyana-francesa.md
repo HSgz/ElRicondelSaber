@@ -6,9 +6,7 @@ description: Guyana Francesa, llamada también "Tierra de aguas"
 ---
 
 
-
-
-![](/src/images/guyana-francesa.png "bandera de Guyana ")
+![bandera de Guyana](../../src/images/guyana-francesa.png)
 
 Es el único territorio en América del Sur continental que ha elegido la integración completa en un país europeo.
 
