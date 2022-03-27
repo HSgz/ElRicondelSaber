@@ -4,7 +4,7 @@ title: Bienvenidos a la Guyana Francesa
 date: 2022-03-27T00:18:22.822Z
 description: Guyana Francesa, llamada también "Tierra de aguas"
 ---
-![bandera de Guyana](../../src/images/guyana-francesa.png)
+![bandera de Guyana](../../../src/images/guyana-francesa.png)
 
 <div style="text-align: justify">
 Es el único territorio en América del Sur continental que ha elegido la integración completa en un país europeo.
@@ -31,10 +31,10 @@ Francia colonizó el territorio en el siglo XVII; esta colonización se realizó
 
 **Animal emblemático de Guyana**
 
-![Flora y fauna guyana](../../src/images/florafaunaguyana.jpg)
+![Flora y fauna guyana](../../../src/images/florafaunaguyana.jpg)
 
-![Familia Guyanesa](../../src/images/guyane_0028.jpg)
+![Familia Guyanesa](../../../src/images/guyane_0028.jpg)
 
-![Mapa Guayana](../../src/images/mapaguyana.jpg)
+![Mapa Guayana](../../../src/images/mapaguyana.jpg)
 
-![Canal Roy Guyana](../../src/images/canalroyguyana.jpg)
+![Canal Roy Guyana](../../../src/images/canalroyguyana.jpg)
